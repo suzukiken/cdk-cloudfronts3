@@ -5,4 +5,4 @@ To deploy CloudFront distribution of S3 bucket which accessible by custom domain
 * `npm install`
 * `cdk deploy`
 
-[description](https://blog.figmentresearch.com/aws/cloudfront-s3)
+[description](https://note.figmentresearch.com/aws/cloudfront-s3)
